@@ -4,10 +4,11 @@
 
 <product-profile id="kmd"
                  name="Kotlin Multiplatform Mobile Docs"
-                 start-page="home.md"
+                 start-page="home.xml"
                  status="release">
 
-    <toc-element id="home.md"/>
+
+    <toc-element id="home.xml"/>
 
     <toc-element toc-title="Getting started with KMM">
         <toc-element id="getting-started.md"/>

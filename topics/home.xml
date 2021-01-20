@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "http://helpserver.labs.intellij.net/help/html-entities.dtd">
+<topic xsi:noNamespaceSchemaLocation="http://helpserver.labs.intellij.net/help/topic.v2.xsd"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       title="KMM doc home page"
+       id="home">
+
+    <section-starting-page>
+        <title>KMM documentation home page</title>
+        <description>
+        </description>
+
+        <tip-group>
+            <a href="getting-started.md" description="If you're already familiar with the Kotlin language and want to try out KMM." type="start">Get started with KMM</a>
+            <a href="https://kotlinlang.org/docs/tutorials/getting-started.html" description="If you're new to Kotlin." type="start">Get started with Kotlin</a>
+            <a href="samples.md" description="Dig through sample projects for inspiration." type="install">Sample projects</a>
+        </tip-group>
+
+
+    </section-starting-page>
+</topic>
